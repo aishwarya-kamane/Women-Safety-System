@@ -1,0 +1,26 @@
+# ============================================
+# Women Safety App - Requirements
+# ============================================
+
+# ---- GUI & Image Handling ----
+pillow                 # For handling images/icons in Tkinter
+
+# ---- Voice Recognition & Audio ----
+SpeechRecognition      # Speech-to-text library for voice trigger
+pyaudio                # Provides microphone access (may need system-level install)
+sounddevice            # Real-time audio streaming for waveform visualization
+soundfile              # Reads/writes audio data (used with sounddevice)
+numpy                  # Processes audio data for visualization and analysis
+
+# ---- Networking & Location ----
+requests               # Fetch location from IP-based services and API calls
+geocoder               # Get human-readable location (GPS/IP lookup)
+
+# ---- Notifications ----
+pygame                 # Play siren sound asynchronously
+
+# ---- Configuration ----
+python-dotenv          # Loads .env file for API keys and configuration
+
+
+# ============================================

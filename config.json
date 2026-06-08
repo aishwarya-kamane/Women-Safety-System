@@ -1,0 +1,6 @@
+{
+    "trigger_phrase": "help me",
+    "voice_enabled": true,
+    "sms_enabled": true,
+    "email_enabled": true
+}
