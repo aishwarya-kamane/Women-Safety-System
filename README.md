@@ -127,23 +127,6 @@ python main.py
 
 ---
 
-## 🖼️ UI Screenshots 
-
-Below are the key screens of the Women Safety App.  
-
-### 🏠 Dashboard
-![Dashboard](docs/screenshots/dashboard.png)
-
-> The dashboard provides a **Panic Button** (with blinking effect when active), **live waveform visualization** for voice trigger monitoring, and a preview of the most recent alerts.
-
----
-
-### ⚙️ Settings
-![Settings](docs/screenshots/settings.png)
-
-> The settings page allows users to configure **Email/SMS settings**, **voice trigger word**, and manage emergency contacts.
-
----
 
 ## 📦 Requirements
 
@@ -198,8 +181,8 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Author
 
-**Bhavesh Gharat**  
-Python Developer | Cybersecurity Enthusiast | Open-Source Contributor  
+**Aishwarya Kamane**  
+  
 
 📧 **Email:** aishwaryakamane8@gmail.com  
 
