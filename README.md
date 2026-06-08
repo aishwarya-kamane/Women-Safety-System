@@ -201,8 +201,8 @@ pip install -r requirements.txt
 **Bhavesh Gharat**  
 Python Developer | Cybersecurity Enthusiast | Open-Source Contributor  
 
-📧 **Email:** bhavesh.gharat.kit@gmail.com  
-🌐 **GitHub:** [bhavesh.gharat.kit](https://github.com/bhavesh.gharat.kit)
+📧 **Email:** aishwaryakamane8@gmail.com  
+
 
 ---
 
